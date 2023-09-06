@@ -9,7 +9,7 @@
   
   
   
-- قم بانشاء function باسم padel_court_cost
+- قم بانشاء function باسم court_type
 - الـ function تاخذ argument باسم court_type
 - اذا كان court_type is indoor قم بارجاع 30 
 - اذا كان court_type is outdoor قم بارجاع 20
@@ -24,7 +24,7 @@
  ```
  Bullpadel: 100
  Nox: 140
- Siux: 200
+ Siux: 200``
  ```
  
  
